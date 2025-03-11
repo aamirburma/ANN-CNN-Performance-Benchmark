@@ -28,7 +28,7 @@ This project compares **Artificial Neural Networks (ANNs)** and **Convolutional 
 ## 🏗️ Getting Started
 ### 📌 Run the Notebook in Google Colab
 Click below to open the notebook in Google Colab and execute it:
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aamirburma/ANN-CNN-Performance-Benchmark/blob/main/ANN_vs_CNN_Image_Classification.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1J0Th0sFVYTOHddxaOiAtL7ynCIlU5c9N?usp=sharing)
 
 ### 🖥️ Run Locally (Optional)
 1. Clone this repo:
